@@ -31,9 +31,3 @@
 ###
 
 <img src="https://raw.githubusercontent.com/viniciusrochalima/viniciusrochalima/main/images/snake.svg" alt="Snake animation" />
-
-###
-Profile Readme Generator
-
-###
-Profile Readme Generator
