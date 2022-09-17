@@ -30,7 +30,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/viniciusrochalima/viniciusrochalima/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/viniciusrochalima/viniciusrochalima/main/images/snake.svg" alt="Snake animation" />
 
 ###
 Profile Readme Generator
