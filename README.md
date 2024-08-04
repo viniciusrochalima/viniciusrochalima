@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Vinícius Rocha Lima, sou instrutor da Formação Expert em Python da Empowerdata</p>
+<p align="left">Meu nome é Vinícius, trabalho na área de dados desde 2002 e sou apaixonado por programação</p>
 
 ###
 
